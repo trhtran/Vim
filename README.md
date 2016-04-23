@@ -1,14 +1,23 @@
+#Contents
+blackboard
+
 #vimrc
+
+
 
 
 colorscheme blackboard
 
 #to fix problem of non-transparent background
-command Hi hi Normal ctermbg=none__
+command Hi hi Normal ctermbg=none
+
 autocmd VimEnter * Hi
 
 
-copy files to their directory__
-python.vim      --> ~/.vim/syntax__
-blackboard.vim  --> ~/.vim/colors__
+copy files to their directory
+
+python.vim      --> ~/.vim/syntax
+
+blackboard.vim  --> ~/.vim/colors
+
 CSApprox.vim    --> ~/.vim/plugins
