@@ -14,6 +14,7 @@ autocmd VimEnter * Hi
 
 
 copy files to their directory
+-----------------------------
 
 python.vim      --> ~/.vim/syntax
 
