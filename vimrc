@@ -90,7 +90,7 @@ abbr jpython #!/usr/bin/python <CR><CR>from __future__ import division<CR><CR>im
 
 set background=dark
 "colorscheme base16-default
-colorscheme blackboard
+colorscheme randomforest
 "colors wombat256mod
 "colors tir_black
 
